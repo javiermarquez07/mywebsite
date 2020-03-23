@@ -109,7 +109,7 @@ main section#caja-principal article:nth-child(2) a {
     transition: all 0.3s ease-in;
 }
 main section#caja-principal article:nth-child(2) a:hover {
-    background: #5ad922;
+    background: #006666;
     color: #fff;
     transition: all 0.15s ease-out;
 }

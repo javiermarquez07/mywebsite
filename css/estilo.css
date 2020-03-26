@@ -184,7 +184,7 @@ main section#caja-principal article:nth-child(2) nav {
     display: block;
     margin: 0 0 0 10%;
     float: right;
-    position: relative;
+    position: absolute;
 }
 main section#caja-principal article:nth-child(2) nav a {
     width: 35px;
